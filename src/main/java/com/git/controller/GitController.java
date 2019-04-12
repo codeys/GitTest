@@ -4,5 +4,6 @@ public class GitController {
 	public static void main(String[] args) {
 		String right = "";
 		String left = "";
+		String hot_fix = "";
 	}
 }
